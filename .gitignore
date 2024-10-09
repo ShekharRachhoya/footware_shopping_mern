@@ -11,6 +11,7 @@ client/node_modules
 client/dist
 client/dist-ssr
 client/*.local
+client/.env
 
 # Editor directories and files
 client/.vscode/*
@@ -50,3 +51,4 @@ server/*.ntvs*
 server/*.njsproj
 server/*.sln
 server/*.sw?
+server/.env
